@@ -10,7 +10,7 @@ Dedicated to e-commerce.
 At the beginning, all electronic elements were selected and appropriate electrical diagrams were made. 
 Then, an electrical diagram was made and a PCB design based on it, integrating all control components. 
 All elements of the system were made in-house (including PCB). 
-Plastic elements were designed in Autodesk Fusion 360 and printed on 3D printing.
+Plastic elements were designed in Autodesk Fusion 360 and printed on 3D printer.
 
 
 ### This is the hardware part of entire project which contains: 
